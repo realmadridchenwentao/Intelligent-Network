@@ -34,6 +34,14 @@ still in progress
 
   * k折交叉验证与剪枝
 
+#### 代码说明
+
+`classification.py`为分类代码文件，`data.xlsx`为提供的训练集数据，`test.xlsx`为提供的测试集数据，`label.xlsx`为自行制作的测试集标签，`result.xlsx`为分类结果输出的文件，`tree.dot`为输出的决策树结构文件，使用以下命令可以转换为图片.png格式。
+
+```shell
+dot -Tpng tree.dot -o tree.png
+```
+
 ## 告警压缩 
 
 still in progress
