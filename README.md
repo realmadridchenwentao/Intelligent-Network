@@ -1,5 +1,7 @@
 # 智能信息网络
 
+[[题目讲解BV19L4y1N7Z5](https://www.bilibili.com/video/BV19L4y1N7Z5)]
+
 目前完成了流量分类模块的更新。
 
 still in progress
