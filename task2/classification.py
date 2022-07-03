@@ -16,7 +16,7 @@ from sklearn.neighbors import KNeighborsClassifier
 
 from sklearn.datasets import make_classification
 
-#查看各个标签的样本量
+# 查看各个标签的样本量
 from collections import Counter
 
 # 使用imblearn进行随机过采样/SMOTE过采样
